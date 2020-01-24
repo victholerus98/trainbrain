@@ -1,0 +1,381 @@
+{
+  "timestamp": 1579698046,
+  "disruptions": [
+    {
+      "station": {
+        "lng": "17.628350245585395",
+        "lat": "59.191144920124572",
+        "station": "Södertälje centrum"
+      },
+      "delaycount": "3"
+    },
+    {
+      "station": {
+        "lng": "13.76320718304113",
+        "lat": "56.157905939293791",
+        "station": "Hässleholm"
+      },
+      "delaycount": "3"
+    },
+    {
+      "station": {
+        "lng": "17.647215457098191",
+        "lat": "59.177634908472093",
+        "station": "Södertälje hamn"
+      },
+      "delaycount": "2"
+    },
+    {
+      "station": {
+        "lng": "17.947841798445623",
+        "lat": "59.219261489884843",
+        "station": "Flemingsberg"
+      },
+      "delaycount": "2"
+    },
+    {
+      "station": {
+        "lng": "13.186572717507945",
+        "lat": "55.707249580242149",
+        "station": "Lund C"
+      },
+      "delaycount": "2"
+    },
+    {
+      "station": {
+        "lng": "16.50769251598782",
+        "lat": "59.595605235848161",
+        "station": "Västerås västra"
+      },
+      "delaycount": "2"
+    },
+    {
+      "station": {
+        "lng": "12.240512241673448",
+        "lat": "57.754422056779553",
+        "station": "Aspen"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.978043145418106",
+        "lat": "59.235745452523467",
+        "station": "Huddinge"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "13.552006182330869",
+        "lat": "58.175743838976565",
+        "station": "Falköping C"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "16.53429590414158",
+        "lat": "60.5818777468156",
+        "station": "Storvik"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "16.719091859105532",
+        "lat": "61.119708857328568",
+        "station": "Holmsveden"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.899233873234227",
+        "lat": "59.520484953244853",
+        "station": "Upplands Väsby"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.151750038549078",
+        "lat": "60.67608613345503",
+        "station": "Järnvägsmuseum"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.928489392445165",
+        "lat": "59.649072120867778",
+        "station": "Arlanda C"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.48161953808914",
+        "lat": "56.067164587471218",
+        "station": "Bromölla"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.648693814369921",
+        "lat": "59.857881697817483",
+        "station": "Uppsala C"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.559096105462443",
+        "lat": "61.008712307388208",
+        "station": "Mora"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "13.051048595077065",
+        "lat": "55.621995414730016",
+        "station": "Malmö godsbangård"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "11.92343684034566",
+        "lat": "58.354223335381008",
+        "station": "Uddevalla C"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.151750038549078",
+        "lat": "60.67608613345503",
+        "station": "Tåghallen"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.107122447815602",
+        "lat": "59.317398728690662",
+        "station": "Kristinehamn"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.752228203359241",
+        "lat": "59.193512662470383",
+        "station": "Rönninge"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.136752817329516",
+        "lat": "56.549969218446471",
+        "station": "Älmhult"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.067174362704332",
+        "lat": "63.176391689691471",
+        "station": "Långsele"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.905269419542879",
+        "lat": "59.205698927528871",
+        "station": "Tullinge"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "12.500280228730583",
+        "lat": "57.654426434500849",
+        "station": "Rävlanda"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.432080395575703",
+        "lat": "59.1787322753928",
+        "station": "Nykvarn"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.986890985813389",
+        "lat": "59.872634547221757",
+        "station": "Kopparberg"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "15.712718380886704",
+        "lat": "60.586097481213507",
+        "station": "Korsnäs"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "13.155793036541002",
+        "lat": "55.864800018665413",
+        "station": "Marieholm"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "16.67279774440863",
+        "lat": "61.044939674824505",
+        "station": "Lingbo"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "16.01268952858495",
+        "lat": "61.867268116267788",
+        "station": "Tallåsen"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "15.641726698028318",
+        "lat": "60.603247307025484",
+        "station": "Falun C"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.559096105462443",
+        "lat": "61.008712307388208",
+        "station": "Morastrand"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "18.028410943790742",
+        "lat": "59.340269235401472",
+        "station": "Karlberg"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "18.011268352356289",
+        "lat": "59.278590231138971",
+        "station": "Älvsjö"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.151750038549078",
+        "lat": "60.67608613345503",
+        "station": "Gasklockorna"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.440355348694279",
+        "lat": "59.228876279534717",
+        "station": "Degerfors"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "13.332227221530667",
+        "lat": "58.138743614062761",
+        "station": "Floby"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "21.531870499839012",
+        "lat": "65.823445853340772",
+        "station": "Hednoret"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "15.946192339279943",
+        "lat": "60.591033177918625",
+        "station": "Ryggen"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "12.336845403258469",
+        "lat": "57.266682893872741",
+        "station": "Veddige"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.556191772126336",
+        "lat": "56.898021929413062",
+        "station": "Alvesta"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "17.838385524043542",
+        "lat": "59.199494369094495",
+        "station": "Tumba"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "14.090712832002865",
+        "lat": "57.428425417943011",
+        "station": "Skillingaryd"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "15.140746230592448",
+        "lat": "59.718883901339424",
+        "station": "Storå"
+      },
+      "delaycount": "1"
+    },
+    {
+      "station": {
+        "lng": "12.366380780707596",
+        "lat": "59.768404963699972",
+        "station": "Åmotfors"
+      },
+      "delaycount": "1"
+    }
+  ]
+}
